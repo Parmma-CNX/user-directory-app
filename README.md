@@ -38,7 +38,7 @@ A React application for managing and displaying user information with search fun
 
 **Viewing Users**: The main page displays a list of users with their ID, email, and username.
 **Searching Users**: Use the search input at the top to filter users by username. The list updates dynamically as you type.
-**Viewing User Details**: Click the "View" button next to a user to open a modal displaying their details.
+**Viewing User Details**: Click the "Details" button next to a user to open a modal displaying their details.
 
 ## Redux State Management
 
