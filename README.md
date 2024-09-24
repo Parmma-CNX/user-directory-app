@@ -30,7 +30,7 @@ A React application for managing and displaying user information with search fun
    Make sure you have Node.js installed, then run:
    npm install
 
-3. **Install dependencies:**
+3. **Running:**
    Start the development server:
    npm start
 
