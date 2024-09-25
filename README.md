@@ -35,13 +35,23 @@ A React application for managing and displaying user information with search fun
    npm start
 
 ## Usage
+
+```
 (test account)
 email: test@example.com
 password: password123
+```
 
-*Viewing Users*: The main page displays a list of users with their ID, email, and username.
-*Searching Users*: Use the search input at the top to filter users by username. The list updates dynamically as you type.
-*Viewing User Details*: Click the "Details" button next to a user to open a modal displaying their details.
+1. **Viewing User Details:**
+
+   Click the "Details" button next to a user to open a modal displaying their details.
+
+2. **Searching Users:**
+   Use the search input at the top to filter users by username. The list updates dynamically as you type
+
+3. **Viewing Users:**
+   The main page displays a list of users with their ID, email, and username.
+ 
 
 ## Redux State Management
 
