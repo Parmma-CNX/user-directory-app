@@ -15,7 +15,7 @@ A React application for managing and displaying user information with search fun
 - TypeScript
 - Redux Toolkit
 - Chakra UI
-- JWT for authentication (if applicable)
+- JWT for authentication
 
 ## Setup Instructions
 
